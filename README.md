@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    🔍 gowitness
+    🔍 ./gowitness-2.4.2-linux-amd64 file -f urls.txt
   <br>
   <br>
 </h1>
